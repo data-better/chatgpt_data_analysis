@@ -1,1 +1,4 @@
-# chatgpt_data_analysis
+# chatgpt를 이용한 데이터분석 관련 파일
+
+## 데이터
+## 프로그램
